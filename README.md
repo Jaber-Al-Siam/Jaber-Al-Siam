@@ -22,10 +22,11 @@
 <!--   <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a> -->
 </p>
 
+<!-- 
 <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=Jaber-Al-Siam&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=Jaber-Al-Siam&repo=pixel-weather">
-</p>
+</p> -->
 
 
 <!-- **Jaber-Al-Siam/Jaber-Al-Siam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
