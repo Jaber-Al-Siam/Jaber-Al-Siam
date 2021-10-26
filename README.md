@@ -1,9 +1,9 @@
-<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Jaber Al Siam</h3>
-<h5 align="center">CS Undergrad | Competitive Programmer</h5>
+<!-- <h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Jaber Al Siam</h3>
+<h5 align="center">CS Undergrad | Competitive Programmer</h5> -->
 
-<!-- <p align="center">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=Jaber-Al-Siam">
-</p> -->
+</p>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Jaber-Al Siam&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
